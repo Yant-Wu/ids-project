@@ -1,0 +1,7 @@
+/venv
+/data
+data_final/
+.DS_Store
+/models
+/results
+/__pycache__/
